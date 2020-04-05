@@ -1,2 +1,2 @@
 # R_Basics
-Practice r scripts of R basic data structures
+sample r scripts of R basic data structures
