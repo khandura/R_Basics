@@ -19,4 +19,4 @@ print(student_data)
 
 student_data$student_names
 student_data[student_stream == "MCA", ]
-student_data[ student_data$Maths_Marks > 80 & student_data$Accounts_Marks > 85, ]
+#student_data[ student_data$Maths_Marks > 80 & student_data$Accounts_Marks > 85, ]
